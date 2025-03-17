@@ -20,3 +20,4 @@ chrome.tabs.query({}, (tabs) => {
         }
     });
 });
+//acredito estar certo, pois aqui só valida as não lidar para poder responder.
